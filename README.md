@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @YoungKru-D
+- 👋 Hi, I’m @NEETCHAN
 - 👀 I’m interested in Game_Develoment
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on AI-Development
+- 🌱 I’m currently learning GOlang
+- 💞️ I’m looking to collaborate on Game-Development
 - 📫 How to reach me deontamafitra@gmail.com
 
 <!---
