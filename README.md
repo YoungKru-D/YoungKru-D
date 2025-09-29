@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NEETCHAN
-- 👀 I’m interested in Game_Develoment
+- 👀 I’m interested in Mobile Developer
 - 🌱 I’m currently learning GOlang
-- 💞️ I’m looking to collaborate on Game-Development
+- 💞️ I’m looking to collaborate on Mobile Development
 - 📫 How to reach me deontamafitra@gmail.com
 
 <!---
