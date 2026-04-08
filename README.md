@@ -128,7 +128,7 @@ You can click the Preview link to take a look at your changes.
 ## Connect with me:
 
 [![GitHub](https://img.shields.io/badge/GitHub-YoungKru--D-181717?style=for-the-badge\&logo=github)](https://github.com/YoungKru-D)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Open%20to%20Work-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/deonfitratama/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deon%20Fitra%20Tama-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deonfitratama/)
 [![Email](https://img.shields.io/badge/Email-deontamafitra%40gmail.com-red?style=for-the-badge\&logo=gmail)](mailto:deontamafitra@gmail.com)
 
 ---
