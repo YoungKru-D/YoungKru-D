@@ -39,14 +39,14 @@ You can click the Preview link to take a look at your changes.
 
 ## Work Experience:
 
-#### 1. [PT. Dimensi Kreasi Nusantara](https://dimensikreasi.co.id/) | Programmer | Depok `Oct 2024 - Apr 2025`
+#### 1. [PT. Dimensi Kreasi Nusantara](https://kreasinusantara.id/) | Programmer | Depok `Oct 2024 - Apr 2025`
 
 * Spearheaded the launch of mobile applications for Android and iOS using Node.js and React Native
 * Implemented multi-tenant flavor configurations for custom client deployments
 * Maintained and improved banking application systems through bug fixes and routine updates
 * Built automation tools and backend systems to improve efficiency and stability
 
-#### 2. [REC "Higher IT School" - National Research TSU](https://en.tsu.ru/) | Backend & Mobile Developer Intern | Tomsk `Feb 2023 - Jan 2024`
+#### 2. [REC "Higher IT School" - National Research TSU](https://hits.university/en) | Backend & Mobile Developer Intern | Tomsk `Feb 2023 - Jan 2024`
 
 * Developed .NET backend systems using 3-tier Clean Architecture
 * Built Android applications with Kotlin, MVVM, Retrofit, and LiveData
